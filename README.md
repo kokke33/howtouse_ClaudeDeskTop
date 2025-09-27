@@ -26,7 +26,10 @@ AIにPC内のファイルを操作させるための、最初の重要な設定�
 3. 「許可するディレクトリ」のセクションで、この後の作業で使うプロジェクト用のフォルダを追加します。まず、エクスプローラーで `ドキュメント` フォルダなどに `webapp-sample` という名前のフォルダを新規作成してください。
 4. その後、その `webapp-sample` フォルダのフルパス（例: `C:\Users\あなたのユーザー名\Documents\webapp-sample`）を許可ディレクトリとして設定します。
 5. 最後に、Filesystemの設定を確認し、「有効」となっていることを確認してください。
-6. <img  src="ClaudeDeskTop1.png"  alt="設定"><img  src="ClaudeDeskTop2.png"  alt="拡張→FileSystem"><img  src="ClaudeDeskTop3.png"  alt="有効な状態">
+6. 画像イメージ
+<img  src="ClaudeDeskTop1.png"  alt="設定">
+<img  src="ClaudeDeskTop2.png"  alt="拡張→FileSystem">
+<img  src="ClaudeDeskTop3.png"  alt="有効な状態">
 
 > **【重要ポイント】**
 > この設定はすべてGUI（画面上の操作）だけで完結します。設定ファイルを手動で編集する必要はありません。
